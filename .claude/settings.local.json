@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add:*)",
+      "Bash(git commit -m ':*)",
+      "Bash(git push:*)",
+      "WebFetch(domain:kirankkethineni.github.io)",
+      "Bash(curl -s \"https://kirankkethineni.github.io/Semantic-Search/\")",
+      "Bash(curl:*)",
+      "Bash(python -c \"import fitz; print\\('pymupdf ok'\\)\")",
+      "Bash(python -c \"import pdf2image; print\\('pdf2image ok'\\)\")",
+      "Bash(pip list:*)",
+      "Bash(sed -n '3,1724p' \"C:\\\\Users\\\\kethi\\\\.claude\\\\projects\\\\C--Users-kethi-PycharmProjects-XpressWeed\\\\d04b410d-72f7-4d0c-a2f8-5b9f9cc7625f\\\\tool-results\\\\toolu_01VfVEBk8apzHb3aEYmeLFZ8.txt\")",
+      "Read(//tmp/**)"
+    ]
+  }
+}
